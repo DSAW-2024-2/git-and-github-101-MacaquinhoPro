@@ -9,6 +9,6 @@
 
 Bienvenido a tu primer taller de la asignatura, para completarlo es necesario que agregues un nuevo commit a este archivo (README.md) donde llenes los siguientes datos:
 
-- **Nombre completo:Andres Mauricio Ricaurte Lopez
-- **ID de la Universidad:0000277171
-- **Usuario de Github:MacaquinhoPro
+- Nombre completo: Andres Mauricio Ricaurte Lopez
+- ID de la Universidad: 0000277171
+- Usuario de Github: MacaquinhoPro
